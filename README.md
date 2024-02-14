@@ -1,57 +1,49 @@
 # OpenRA
 
-A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
-
-* Website: [https://www.openra.net](https://www.openra.net)
-* Chat: [#openra on Libera](ircs://irc.libera.chat:6697/openra) ([web](https://web.libera.chat/#openra)) or [Discord](https://discord.openra.net) ![Discord Badge](https://discordapp.com/api/guilds/153649279762694144/widget.png)
-* Repository: [https://github.com/OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) ![Continuous Integration](https://github.com/OpenRA/OpenRA/workflows/Continuous%20Integration/badge.svg)
-
-Please read the [FAQ](https://github.com/OpenRA/OpenRA/wiki/FAQ) in our [Wiki](https://github.com/OpenRA/OpenRA/wiki) and report problems at [https://github.com/OpenRA/OpenRA/issues](https://github.com/OpenRA/OpenRA/issues).
-
-Join the [Forum](https://forum.openra.net/) for discussion.
-
-## Play
-
-Distributed mods include a reimagining of
-
-* Command & Conquer: Red Alert
-* Command & Conquer: Tiberian Dawn
-* Dune 2000
-
-EA has not endorsed and does not support this product.
-
-Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-game) Guide to win multiplayer matches.
-
-## Contribute
-
-* Please read [INSTALL.md](https://github.com/OpenRA/OpenRA/blob/bleed/INSTALL.md) and [Compiling](https://github.com/OpenRA/OpenRA/wiki/Compiling) on how to set up an OpenRA development environment.
-* See [Hacking](https://github.com/OpenRA/OpenRA/wiki/Hacking) for a (now very outdated) overview of the engine.
-* Read and follow our [Code of Conduct](https://github.com/OpenRA/OpenRA/blob/bleed/CODE_OF_CONDUCT.md).
-* To get your patches merged, please adhere to the [Contributing](https://github.com/OpenRA/OpenRA/blob/bleed/CONTRIBUTING.md) guidelines.
-
-## Mapping
-
-* We offer a [Mapping](https://github.com/OpenRA/OpenRA/wiki/Mapping) Tutorial as you can change gameplay drastically with custom rules.
-* For scripted mission have a look at the [Lua API](https://docs.openra.net/en/latest/release/lua/).
-* If you want to share your maps with the community, upload them at the [OpenRA Resource Center](https://resource.openra.net).
-
-## Modding
-
-* Download a copy of the [OpenRA Mod SDK](https://github.com/OpenRA/OpenRAModSDK) to start your own mod.
-* Check the [Modding Guide](https://github.com/OpenRA/OpenRA/wiki/Modding-Guide) to create your own classic RTS.
-* There exists an auto-generated [Trait documentation](https://docs.openra.net/en/latest/release/traits/) to get started with yaml files.
-* Some hints on how to create new OpenRA compatible [Pixelart](https://github.com/OpenRA/OpenRA/wiki/Pixelart).
-* Upload total conversions at [our Mod DB profile](https://www.moddb.com/games/openra/mods).
-
-## Support
-
-* Sponsor a [mirror server](https://github.com/OpenRA/OpenRAWebsiteV3/tree/master/packages) if you have some bandwidth to spare.
-* You can immediately set up a [Dedicated](https://github.com/OpenRA/OpenRA/wiki/Dedicated-Server) Game Server.
-
-## License
-Copyright (c) OpenRA Developers and Contributors
-This file is part of OpenRA, which is free software. It is made
-available to you under the terms of the GNU General Public License
-as published by the Free Software Foundation, either version 3 of
-the License, or (at your option) any later version. For more
-information, see [COPYING](https://github.com/OpenRA/OpenRA/blob/bleed/COPYING).
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-openra" class="anchor" aria-hidden="true" tabindex="-1" href="#openra"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开放RA</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持早期 Westwood 经典的 Libre/免费实时策略游戏引擎。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站：https: </font></font><a href="https://www.openra.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//www.openra.net</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">聊天：Libera（</font></font><a href="https://web.libera.chat/#openra" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）或</font></font><a href="https://discord.openra.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord上的#openra</font></font></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d5eadc85bffba53f50861f08fad9dffbc3c3df86c54ff9b8d38c93ba69407720/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3135333634393237393736323639343134342f7769646765742e706e67"><img src="https://camo.githubusercontent.com/d5eadc85bffba53f50861f08fad9dffbc3c3df86c54ff9b8d38c93ba69407720/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3135333634393237393736323639343134342f7769646765742e706e67" alt="不和谐徽章" data-canonical-src="https://discordapp.com/api/guilds/153649279762694144/widget.png" style="max-width: 100%;"></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库： https: </font></font><a href="https://github.com/OpenRA/OpenRA"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/OpenRA/OpenRA</font></font></a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/OpenRA/OpenRA/workflows/Continuous%20Integration/badge.svg"><img src="https://github.com/OpenRA/OpenRA/workflows/Continuous%20Integration/badge.svg" alt="持续集成" style="max-width: 100%;"></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请阅读我们的</font><a href="https://github.com/OpenRA/OpenRA/wiki"><font style="vertical-align: inherit;">Wiki</font></a><font style="vertical-align: inherit;">中的</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/FAQ"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常见问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解答并在</font><a href="https://github.com/OpenRA/OpenRA/issues"><font style="vertical-align: inherit;">https://github.com/OpenRA/OpenRA/issues</font></a><font style="vertical-align: inherit;">报告问题。</font></font><a href="https://github.com/OpenRA/OpenRA/wiki"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font><a href="https://github.com/OpenRA/OpenRA/issues"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入</font></font><a href="https://forum.openra.net/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行讨论。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-play" class="anchor" aria-hidden="true" tabindex="-1" href="#play"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">玩</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式模组包括重新构想</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令与征服：红色警戒</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令与征服：泰伯利亚黎明</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">沙丘2000</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EA 尚未认可也不支持该产品。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Playing-the-game"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南以赢得多人比赛。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contribute" class="anchor" aria-hidden="true" tabindex="-1" href="#contribute"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请阅读</font></font><a href="https://github.com/OpenRA/OpenRA/blob/bleed/INSTALL.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">INSTALL.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Compiling"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compiling</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解如何设置 OpenRA 开发环境。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关引擎的概述（现在已经非常过时），</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Hacking"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hacking 。</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读并遵守我们的</font></font><a href="https://github.com/OpenRA/OpenRA/blob/bleed/CODE_OF_CONDUCT.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为准则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要合并您的补丁，请遵守</font></font><a href="https://github.com/OpenRA/OpenRA/blob/bleed/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-mapping" class="anchor" aria-hidden="true" tabindex="-1" href="#mapping"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测绘</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们提供</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Mapping"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">映射</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程，因为您可以使用自定义规则彻底改变游戏玩法。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于脚本化任务，请查看</font></font><a href="https://docs.openra.net/en/latest/release/lua/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lua API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想与社区共享您的地图，请在</font></font><a href="https://resource.openra.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenRA 资源中心</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上传它们。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-modding" class="anchor" aria-hidden="true" tabindex="-1" href="#modding"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改装</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><a href="https://github.com/OpenRA/OpenRAModSDK"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载OpenRA Mod SDK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的副本</font><font style="vertical-align: inherit;">以启动您自己的 mod。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Modding-Guide"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模组指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来创建您自己的经典 RTS。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有一个自动生成的</font></font><a href="https://docs.openra.net/en/latest/release/traits/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Trait 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可用于开始使用 yaml 文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关如何创建新的 OpenRA 兼容</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Pixelart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pixelart 的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一些提示。</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://www.moddb.com/games/openra/mods" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在我们的 Mod DB 个人资料</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中上传总转化次数</font><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support" class="anchor" aria-hidden="true" tabindex="-1" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有空闲带宽，</font><font style="vertical-align: inherit;">请赞助</font></font><a href="https://github.com/OpenRA/OpenRAWebsiteV3/tree/master/packages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">镜像服务器。</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以立即设置</font></font><a href="https://github.com/OpenRA/OpenRA/wiki/Dedicated-Server"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">专用</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏服务器。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版权所有 (c) OpenRA 开发人员和贡献者 该文件是 OpenRA 的一部分，OpenRA 是免费软件。它是根据自由软件基金会发布的 GNU 通用公共许可证的条款向您提供的，可以是许可证的第 3 版，也可以是（由您选择）任何更高版本。有关详细信息，请参阅</font></font><a href="https://github.com/OpenRA/OpenRA/blob/bleed/COPYING"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
